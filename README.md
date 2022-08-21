@@ -20,4 +20,4 @@ The dynamic buffering allows the animation of GNOME desktop up to 120fps on some
 
 4. Install builted packages
 
-    Only need gir1.2-mutter-10_42.3-2_amd64.deb, libmutter-10-0_42.3-2_amd64.deb, mutter_42.3-2_amd64.deb and mutter-common_42.3-2_all.deb.
+    In the output folder(.), Only need libmutter-10-0_42.3-2_amd64.deb and mutter_42.3-2_amd64.deb.
