@@ -1,4 +1,4 @@
-# Using dynamic buffering on Debian of Debian testing
+# Using dynamic buffering on GNOME of Debian testing
 
 [Related News](https://www.phoronix.com/news/GNOME-Triple-Buffering-2x)
 
