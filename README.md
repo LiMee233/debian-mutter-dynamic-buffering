@@ -18,6 +18,14 @@ The dynamic buffering allows the animation of GNOME desktop up to 120fps on some
 
     [Follow This](https://medium.com/@da.mikulasova/apply-patch-for-debian-package-968b8929fda)
 
+    The following modifications are required for a successful build:
+
+    1. Delete ` a/` and ` b/` in patch file from AUR `mr1441.patch`.
+
+    2. Delete file: `mutter-42.4/debian/source/format`.
+
+    3. Delete files: `mutter-42.4/debian/*.symbols`
+
 4. Install builted packages
 
-    In the output folder(.), Only need libmutter-10-0_42.3-2_amd64.deb and mutter_42.3-2_amd64.deb.
+    In the output folder, Only need libmutter-10-0_42.4-2_amd64.deb and mutter_42.4-2_amd64.deb.
